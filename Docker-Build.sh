@@ -1,0 +1,1 @@
+docker build -t ucucs/springboot-docker:0.0.1 .
